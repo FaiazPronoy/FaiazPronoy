@@ -1,18 +1,18 @@
 ## Hi there, I am Faiaz Abrar Zaman Pronoy! 👋
 
 ### 🚀 About Me
-🎓 I'm an undergraduate student pursuing a Bachelor's in Computer Science and Engineering at BRAC University.
-💻 I have a strong interest in Software Development, Data Science, Artificial Intelligence, Machine Learning, Deep Learning.
-🌱 I’m currently learning Django, C programming, Java.
-💡 I enjoy solving problems and building projects that have a positive impact.
-🔭 I’m working on Real Estate Management Project.
-🤖 I'm a tech enthusiast, coder and also a quick learner.
-📚 In my free time, I love exploring new technologies, reading tech blogs.
+- 🎓 I'm an undergraduate student pursuing a Bachelor's in Computer Science and Engineering at BRAC University.
+- 💻 I have a strong interest in Software Development, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Django, C programming, Java.
+- 💡 I enjoy solving problems and building projects that have a positive impact.
+- 🔭 I’m working on Real Estate Management Project.
+- 🤖 I'm a tech enthusiast, coder and also a quick learner.
+- 📚 In my free time, I love exploring new technologies, reading tech blogs.
 
 
 ### 🛠️ Skills
 - Programming Languages: Python, Java, C.
-- Web Development: HTML, CSS, JavaScript, Django].
+- Web Development: HTML, CSS, JavaScript, Django.
 - Database Management: MySQL, MongoDB.
 - Tools & Technologies: Git.
 - Operating Systems: Windows & Linux.
