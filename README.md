@@ -1,7 +1,7 @@
 ## Hi there, I am Faiaz Abrar Zaman Pronoy! 👋
 
 ### 🚀 About Me
-- 🎓 I'm an undergraduate student pursuing a Bachelor's in Computer Science and Engineering at BRAC University.
+- 🎓 I'm an undergraduate student pursuing a Bachelor's in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/).
 - 💻 I have a strong interest in Software Development, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Django, C programming, Java.
 - 💡 I enjoy solving problems and building projects that have a positive impact.
