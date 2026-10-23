@@ -1,46 +1,112 @@
+<div align="center">
+
 ## Hi there, I am Faiaz Abrar Zaman Pronoy! 👋
 
-### 🚀 About Me
-- 🎓 I'm an undergraduate student pursuing a Bachelor's in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/).
-- 💻 I have a strong interest in Software Development, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Django, C programming, Java.
-- 💡 I enjoy solving problems and building projects that have a positive impact.
-- 🔭 I’m working on Real Estate Management Project.
-- 🤖 I'm a tech enthusiast, coder and also a quick learner.
-- 📚 In my free time, I love exploring new technologies, reading tech blogs.
+<a href="https://github.com/FaiazPronoy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%26+Bioinformatics+Researcher;M.Sc.+in+ICT+%40+BUET+%7C+CSE+%40+BRAC+University" alt="Typing SVG" />
+</a>
 
+🎓 CSE Graduate, BRAC University &nbsp;•&nbsp; 📚 M.Sc. in ICT, BUET &nbsp;•&nbsp; 📍 Dhaka, Bangladesh
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faiaz-abrar-zaman-pronoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fazpronoy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://x.com/fazpronoy"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://discord.com/users/978691491650224138/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+### 🚀 About Me
+- 🎓 I completed my **B.Sc. in Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/) with a **CGPA of 3.95/4.00**, and I'm now doing my **M.Sc. in ICT** at [BUET](https://www.buet.ac.bd/).
+- 💻 I build full-stack web apps for everyday problems: digital payments, house rentals, student planning and animal rescue.
+- 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance faster than lab tests.
+- 🧑‍🏫 As a student tutor, I taught Java and Mathematics to **430+ students**, so I enjoy explaining hard ideas simply.
+- 🌱 I'm currently exploring **advanced AI** and **network and system security**.
+- 💬 Ask me about **Django, React, Node.js, SQL or machine learning**.
+
+---
+
+### 🏆 Highlights
+- 🥇 **Vice Chancellor's List** in 7 semesters and **Dean's List** in 1
+- 💯 **Perfect 4.00 GPA** in 8 consecutive semesters
+- 🎖️ **Merit-based scholarship** for 7 semesters
+- 📄 Undergraduate thesis graded **A+**
+
+---
+
+### 🌟 Featured Projects
+
+| | Project | What it does | Built with |
+| :-: | --- | --- | --- |
+| 💸 | [**TakaLagbe!**](https://github.com/FaiazPronoy/TakaLagbe) <br/><sub>CSE370 · Database Systems</sub> | Digital wallet and money transfer system: send money, pay bills, recharge, save and split bills, on a MySQL schema with transactions and triggers | PHP · MySQL · JavaScript |
+| 🏠 | [**Rentorium**](https://github.com/FaiazPronoy/Rentorium) <br/><sub>CSE471 · [🔗 Live demo](https://faiazpronoy.pythonanywhere.com)</sub> | Rent or buy homes, offices and land with map search, viewing bookings and agent-verified listings | Django · SQLite · Leaflet |
+| 🔐 | [**SafeBook**](https://github.com/FaiazPronoy/SafeBook) <br/><sub>CSE447 · Cryptography</sub> | Social network where friends-only posts and chats are encrypted, so even the server cannot read them | Django · AES-GCM · RSA · HMAC |
+| 🧭 | [**BRACU Course Compass**](https://github.com/FaiazPronoy/BRACU-Course-Compass) <br/><sub>CSE470 · Software Engineering</sub> | Course reviews, Q&A, a prerequisite-aware semester planner and a study desk for BRACU students | React · TypeScript · Express · MongoDB |
+| 🐾 | [**Pother Bondhu**](https://github.com/FaiazPronoy/Pother-Bondhu) <br/><sub>Personal project</sub> | Rescue network for street animals in Dhaka: photo reports, volunteer teams, PetPoints and a supplies shop | React · Node.js · Express · MongoDB |
+| 📊 | [**BRACU CGPA Analyzer**](https://github.com/FaiazPronoy/BRACU-CGPA-Analyzer) <br/><sub>Personal project · [🔗 Live](https://faiazpronoy.github.io/BRACU-CGPA-Analyzer/)</sub> | Reads a BRACU grade sheet in the browser and plans repeats, retakes and target CGPA | React · TypeScript · pdf.js |
+| 🎮 | [**Submarine Saga**](https://github.com/FaiazPronoy/Submarine_Saga) <br/><sub>CSE423 · Computer Graphics</sub> | 2D submarine torpedo duel where every shape is drawn point by point with hand-written graphics algorithms | Python · OpenGL |
+
+<details>
+<summary>🔬 <b>Research and more projects</b> (click to expand)</summary>
+<br/>
+
+- 🧬 **Lineage-Aware Antibiotic Resistance Prediction** (undergraduate thesis, A+): the TriLens-MoE-Stack model predicts resistance to 7 antibiotics from 6,962 E. coli genomes, with a mean PR-AUC of 84.9%. *PyTorch · XGBoost*
+- 💬 **Textual Emotion Recognition** (CVIS Lab): LSTM, CNN and hybrid models with ensembles, 90.7% test accuracy. *TensorFlow · Keras · NLTK*
+- 🏡 **House Price Prediction**: regression models compared on 1,460 homes. *Scikit-learn · Pandas*
+- 🌱 **GreenSense** and **Smart Irrigation**: Arduino and ESP32 systems with sensors, Bluetooth and SMS control. *Arduino · C++*
+- 🌐 **Enterprise Network Design** and an **x86 Assembly Banking Simulator**.
+
+</details>
+
+---
 
 ### 🛠️ Skills
-- Programming Languages: Python, Java, C.
-- Web Development: HTML, CSS, JavaScript, Django.
-- Database Management: MySQL, MongoDB.
-- Tools & Technologies: Git.
-- Operating Systems: Windows & Linux.
-
-### 🎯Goals
-- Achieve and maintain a high CGPA throughout my undergraduate studies.
-- Engage in research projects in areas like Artificial Intelligence/Machine Learning, with the aim of publishing a paper in a reputable journal or conference.
-- Improve my problem-solving skills by participating in competitive programming contests like Codeforces, LeetCode, or HackerRank.
-- Apply for  scholarships, particularly for studying abroad and to apply prestigious graduate programs (Masters or Ph.D.) in Computer Science, with the aim of specializing in ML/AI.
+- **Languages:** Python, Java, JavaScript, TypeScript, C, PHP, SQL
+- **Web Development:** React, Tailwind CSS, Node.js, Express, Django, REST APIs, JWT
+- **Databases:** MySQL, MongoDB, SQLite
+- **Machine Learning:** PyTorch, TensorFlow (Keras), Scikit-learn, XGBoost, Pandas, NumPy
+- **Security and Testing:** AES, RSA, HMAC, bcrypt, access control · Vitest, Playwright, Django tests
+- **Tools:** Git, GitHub, VS Code, Jupyter, Google Colab, Arduino
+- **Operating Systems:** Windows and Linux
 
 ---
-### 🤝 Connect with me:
-[<img align="left" alt="FaiazPronoy | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="FaiazPronoy | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="FaiazPronoy | X" src="https://img.shields.io/badge/(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />][x]
-[<img align="left" alt="FaiazPronoy | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="FaiazPronoy | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
-[facebook]: https://www.facebook.com/faiazabrarzaman.pronoy/
-[x]: https://x.com/fazpronoy
-[instagram]: https://www.instagram.com/faiaz_pronoy/
-[linkedin]: https://www.linkedin.com/in/faiaz-abrar-zaman-pronoy/
-[discord]: https://discord.com/users/978691491650224138/
-<br/>
-<br/>
+### 🎯 Goals
+- 🎓 Complete my M.Sc. in ICT at BUET with strong research in AI and security.
+- 📝 Publish my thesis research on antibiotic resistance prediction in a reputable journal or conference.
+- 💼 Grow as a software engineer in **fintech and AI**, building reliable and secure products.
+- 🧩 Keep sharpening my problem solving on LeetCode and Codeforces.
 
 ---
-###	🧰 Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+### 🧰 Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+</p>
 
+---
+
+<div align="center">
+
+⭐ *Thanks for visiting! Feel free to explore my repositories.* ⭐
+
+</div>
