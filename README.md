@@ -20,7 +20,7 @@
 - 🎓 I completed my **B.Sc. in Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/) with a **CGPA of 3.95/4.00**, and I'm now doing my **M.Sc. in ICT** at [BUET](https://www.buet.ac.bd/).
 - 💻 I build full-stack web apps for everyday problems: digital payments, house rentals, student planning and animal rescue.
 - 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance faster than lab tests.
-- 🧑‍🏫 I was a student tutor for **400+ students** in Java and Mathematics, and directly taught **100+** of them across 4 semesters, so I enjoy explaining hard ideas simply.
+- 🧑‍🏫 Over 4 semesters as a student tutor for Java and Mathematics, I was assigned to **400+ students** and gave **100+** of them one-to-one help in the dedicated Student Tutor lab, so I enjoy explaining hard ideas simply.
 - 🌱 I'm currently exploring **advanced AI** and **network and system security**.
 - 💬 Ask me about **Django, React, Node.js, SQL or machine learning**.
 
