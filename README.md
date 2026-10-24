@@ -3,7 +3,7 @@
 ## Hi there, I am Faiaz Abrar Zaman Pronoy! 👋
 
 <a href="https://github.com/FaiazPronoy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%26+Bioinformatics+Researcher;M.Sc.+in+ICT+%40+BUET+%7C+CSE+%40+BRAC+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%26+Bioinformatics+Enthusiast;M.Sc.+in+ICT+%40+BUET+%7C+CSE+%40+BRAC+University" alt="Typing SVG" />
 </a>
 
 🎓 CSE Graduate, BRAC University &nbsp;•&nbsp; 📚 M.Sc. in ICT, BUET &nbsp;•&nbsp; 📍 Dhaka, Bangladesh
@@ -19,7 +19,7 @@
 ### 🚀 About Me
 - 🎓 I completed my **B.Sc. in Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/) with a **CGPA of 3.95/4.00**, and I'm now doing my **M.Sc. in ICT** at [BUET](https://www.buet.ac.bd/).
 - 💻 I build full-stack web apps for everyday problems: digital payments, house rentals, student planning and animal rescue.
-- 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance faster than lab tests.
+- 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance straight from genome data.
 - 🧑‍🏫 Over 4 semesters as a student tutor for Java and Mathematics, I was assigned to **400+ students** and gave **100+** of them one-to-one help in the dedicated Student Tutor lab, so I enjoy explaining hard ideas simply.
 - 🌱 I'm currently exploring **advanced AI** and **network and system security**.
 - 💬 Ask me about **Django, React, Node.js, SQL or machine learning**.
@@ -40,7 +40,7 @@
 | :-: | --- | --- | --- |
 | 💸 | [**TakaLagbe!**](https://github.com/FaiazPronoy/TakaLagbe) <br/><sub>CSE370 · Database Systems</sub> | Digital wallet and money transfer system: send money, pay bills, recharge, save and split bills, on a MySQL schema with transactions and triggers | PHP · MySQL · JavaScript |
 | 🏠 | [**Rentorium**](https://github.com/FaiazPronoy/Rentorium) <br/><sub>CSE471 · [🔗 Live demo](https://faiazpronoy.pythonanywhere.com)</sub> | Rent or buy homes, offices and land with map search, viewing bookings and agent-verified listings | Django · SQLite · Leaflet |
-| 🔐 | [**SafeBook**](https://github.com/FaiazPronoy/SafeBook) <br/><sub>CSE447 · Cryptography</sub> | Social network where friends-only posts and chats are encrypted, so even the server cannot read them | Django · AES-GCM · RSA · HMAC |
+| 🔐 | [**SafeBook**](https://github.com/FaiazPronoy/SafeBook) <br/><sub>CSE447 · Cryptography</sub> | Social network that stores friends-only posts and chats encrypted, so a stolen database cannot reveal them | Django · AES-GCM · RSA · HMAC |
 | 🧭 | [**BRACU Course Compass**](https://github.com/FaiazPronoy/BRACU-Course-Compass) <br/><sub>CSE470 · Software Engineering</sub> | Course reviews, Q&A, a prerequisite-aware semester planner and a study desk for BRACU students | React · TypeScript · Express · MongoDB |
 | 🐾 | [**Pother Bondhu**](https://github.com/FaiazPronoy/Pother-Bondhu) <br/><sub>Personal project</sub> | Rescue network for street animals in Dhaka: photo reports, volunteer teams, PetPoints and a supplies shop | React · Node.js · Express · MongoDB |
 | 📊 | [**BRACU CGPA Analyzer**](https://github.com/FaiazPronoy/BRACU-CGPA-Analyzer) <br/><sub>Personal project · [🔗 Live](https://faiazpronoy.github.io/BRACU-CGPA-Analyzer/)</sub> | Reads a BRACU grade sheet in the browser and plans repeats, retakes and target CGPA | React · TypeScript · pdf.js |
