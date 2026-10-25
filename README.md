@@ -38,7 +38,7 @@
 
 | | Project | What it does | Built with |
 | :-: | --- | --- | --- |
-| 💸 | [**TakaLagbe!**](https://github.com/FaiazPronoy/TakaLagbe) <br/><sub>CSE370 · Database Systems</sub> | Digital wallet and money transfer system: send money, pay bills, recharge, save and split bills, on a MySQL schema with transactions and triggers | PHP · MySQL · JavaScript |
+| 💸 | [**TakaLagbe!**](https://github.com/FaiazPronoy/TakaLagbe) <br/><sub>CSE370 · Database Systems</sub><br/><sub>[🔗 Live demo](https://takalagbe.site.je)</sub> | Digital wallet and money transfer system: send money, pay bills, recharge, save and split bills, on a MySQL schema with transactions and triggers | PHP · MySQL · JavaScript |
 | 🏠 | [**Rentorium**](https://github.com/FaiazPronoy/Rentorium) <br/><sub>CSE471 · System Analysis and Design</sub><br/><sub>[🔗 Live demo](https://faiazpronoy.pythonanywhere.com)</sub> | Rent or buy homes, offices and land with map search, viewing bookings and agent-verified listings | Django · SQLite · Leaflet |
 | 🔐 | [**SafeBook**](https://github.com/FaiazPronoy/SafeBook) <br/><sub>CSE447 · Cryptography and Cryptanalysis</sub><br/><sub>[🔗 Live demo](https://fazpronoy.pythonanywhere.com)</sub> | Social network that stores friends-only posts and chats encrypted, so a stolen database cannot reveal them | Django · AES-GCM · RSA · HMAC |
 | 🧭 | [**BRACU Course Compass**](https://github.com/FaiazPronoy/BRACU-Course-Compass) <br/><sub>CSE470 · Software Engineering</sub><br/><sub>[🔗 Live demo](https://bracu-course-compass.onrender.com)</sub> | Course reviews, Q&A, a prerequisite-aware semester planner and a study desk for BRACU students | React · TypeScript · Express · MongoDB |
