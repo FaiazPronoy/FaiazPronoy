@@ -12,6 +12,8 @@
   <a href="https://www.linkedin.com/in/faiaz-abrar-zaman-pronoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fazpronoy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://x.com/fazpronoy"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://discord.com/users/978691491650224138/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=FaiazPronoy&label=Profile%20views&color=2F81F7&style=flat" />
+
 </div>
 
 ---
@@ -51,8 +53,8 @@
 <br/>
 
 - 🧬 **Lineage-Aware Antibiotic Resistance Prediction** (undergraduate thesis, A+): the TriLens-MoE-Stack model predicts resistance to 7 antibiotics from 6,962 E. coli genomes, with a mean PR-AUC of 84.9%. *PyTorch · XGBoost*
-- 💬 **Textual Emotion Recognition** (CVIS Lab): LSTM, CNN and hybrid models with ensembles, 90.7% test accuracy. *TensorFlow · Keras · NLTK*
-- 🏡 **House Price Prediction**: regression models compared on 1,460 homes. *Scikit-learn · Pandas*
+- 💬 [**Textual Emotion Recognition**](https://github.com/FaiazPronoy/Textual-Emotion-Recognition) (CVIS Lab): five deep learning models and a fine-tuned RoBERTa, 93.3% test accuracy with a weighted vote. *TensorFlow · PyTorch · Transformers*
+- 🏡 [**House Price Prediction**](https://github.com/FaiazPronoy/House_Price_Prediction) (CSE422 group project): 13 models and a stacked ensemble, R² 0.853 on unseen houses, with SHAP explanations. *Scikit-learn · XGBoost · SHAP*
 - 🌱 **GreenSense** and **Smart Irrigation**: Arduino and ESP32 systems with sensors, Bluetooth and SMS control. *Arduino · C++*
 - 🌐 **Enterprise Network Design** and an **x86 Assembly Banking Simulator**.
 
@@ -103,6 +105,39 @@
 </p>
 
 ---
+
+### 📈 GitHub Stats
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/stats.svg" />
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/stats.svg" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/top-langs.svg" />
+  <img alt="Most used languages" src="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/top-langs.svg" height="165" />
+</picture>
+</p>
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&theme=flat&no-bg=true&no-frame=true&margin-w=12" />
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake.svg" />
+</picture>
+</p>
+
+---
+
+<p align="center">
+  <img alt="Programming quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <div align="center">
 
