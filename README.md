@@ -122,14 +122,10 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&theme=flat&no-bg=true&no-frame=true&margin-w=12" />
-</p>
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FaiazPronoy/FaiazPronoy/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=darkhub" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=flat" />
+  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=flat" />
 </picture>
 </p>
 
