@@ -3,7 +3,7 @@
 ## Hi there, I am Faiaz Abrar Zaman Pronoy! 👋
 
 <a href="https://github.com/FaiazPronoy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+%26+Bioinformatics+Enthusiast;M.Sc.+in+ICT+%40+BUET+%7C+CSE+%40+BRAC+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Learn-Build-Refine;Machine+Learning+%26+Bioinformatics+Enthusiast;M.Sc.+in+ICT+%40+BUET+%7C+B.Sc.+in+CSE+%40+BRAC+University" alt="Typing SVG" />
 </a>
 
 🎓 CSE Graduate, BRAC University &nbsp;•&nbsp; 📚 M.Sc. in ICT, BUET &nbsp;•&nbsp; 📍 Dhaka, Bangladesh
