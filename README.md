@@ -19,6 +19,12 @@
 ---
 
 ### 🚀 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coding-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.gif" />
+  <img align="right" width="300" alt="Coding animation" src="assets/coding-light.gif" />
+</picture>
+
 - 🎓 I completed my **B.Sc. in Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/) with a **CGPA of 3.95/4.00**, and I'm now doing my **M.Sc. in ICT** at [BUET](https://www.buet.ac.bd/).
 - 💻 I build full-stack web apps for everyday problems: digital payments, house rentals, student planning and animal rescue.
 - 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance straight from genome data.
@@ -121,21 +127,12 @@
 </picture>
 </p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=darkhub" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=flat" />
-  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=FaiazPronoy&title=MultiLanguage,Commits,Repositories,Stars,LongTimeUser&no-bg=true&no-frame=true&margin-w=12&theme=flat" />
-</picture>
-</p>
-
 ---
 
-<p align="center">
-  <img alt="Programming quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 <div align="center">
+
+*"We can only see a short distance ahead, but we can see plenty there that needs to be done."*<br/>
+<sub>Alan Turing</sub>
 
 ⭐ *Thanks for visiting! Feel free to explore my repositories.* ⭐
 
