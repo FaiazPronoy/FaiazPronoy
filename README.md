@@ -131,8 +131,8 @@
 
 <div align="center">
 
-*"We can only see a short distance ahead, but we can see plenty there that needs to be done."*<br/>
-<sub>Alan Turing</sub>
+*"It always seems impossible until it's done."*<br/>
+<sub>Nelson Mandela</sub>
 
 ⭐ *Thanks for visiting! Feel free to explore my repositories.* ⭐
 
