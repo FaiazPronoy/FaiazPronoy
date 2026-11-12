@@ -22,7 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/coding-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="assets/coding-light.gif" />
-  <img align="right" width="300" alt="Coding animation" src="assets/coding-light.gif" />
+  <img align="right" width="34%" alt="Coding animation" src="assets/coding-light.gif" />
 </picture>
 
 - 🎓 I completed my **B.Sc. in Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/) with a **CGPA of 3.95/4.00**, including **4.00/4.00 in all 28 CSE courses**, thesis included. I'm now doing my **M.Sc. in ICT** at [BUET](https://www.buet.ac.bd/).
