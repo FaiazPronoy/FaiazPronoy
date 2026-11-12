@@ -7,7 +7,7 @@
 .torp{animation:fire 2.6s linear infinite}@keyframes fire{0%{transform:translateX(0);opacity:0}10%{opacity:1}80%{opacity:1}100%{transform:translateX(-110px);opacity:0}}.bub{animation:up 2.6s ease-in infinite}@keyframes up{0%{transform:translateY(0);opacity:.9}100%{transform:translateY(-46px);opacity:0}}
 @media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
 </style>
-<rect width="600" height="240" rx="18" fill="#0B3A5B"/>
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="0.6"><stop offset="0" stop-color="#072A44"/><stop offset="1" stop-color="#0E5C7A"/></linearGradient><radialGradient id="rg" cx="1.0" cy="0" r=".75"><stop offset="0" stop-color="#4FD1E8" stop-opacity="0.35"/><stop offset="1" stop-color="#4FD1E8" stop-opacity="0"/></radialGradient><clipPath id="rr"><rect width="600" height="240" rx="18"/></clipPath></defs><g clip-path="url(#rr)"><rect width="600" height="240" fill="url(#lg)"/><rect width="600" height="240" fill="url(#rg)"/></g>
 <text class="h" x="34" y="58">Submarine Saga</text>
 <text class="k" x="34" y="84">CSE423, Computer Graphics</text>
 <text class="d" x="34" y="122">2D torpedo duel where every shape is</text><text class="d" x="34" y="148">drawn point by point, by hand.</text>

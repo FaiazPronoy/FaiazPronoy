@@ -7,7 +7,7 @@
 .b{font:600 17px ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;fill:#5B6B7B;animation:rd 5s linear infinite}.hot{animation-name:ht}@keyframes rd{0%{fill:#5B6B7B}4%{fill:#E6EDF3}12%,100%{fill:#5B6B7B}}@keyframes ht{0%{fill:#5B6B7B}4%,80%{fill:#F2B84B}100%{fill:#5B6B7B}}
 @media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
 </style>
-<rect width="600" height="240" rx="18" fill="#16202B"/>
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="0.6"><stop offset="0" stop-color="#111922"/><stop offset="1" stop-color="#1F2D3A"/></linearGradient><radialGradient id="rg" cx="1.0" cy="1.0" r=".75"><stop offset="0" stop-color="#F2B84B" stop-opacity="0.22"/><stop offset="1" stop-color="#F2B84B" stop-opacity="0"/></radialGradient><clipPath id="rr"><rect width="600" height="240" rx="18"/></clipPath></defs><g clip-path="url(#rr)"><rect width="600" height="240" fill="url(#lg)"/><rect width="600" height="240" fill="url(#rg)"/></g>
 <text class="h" x="34" y="58">Resistance from genomes</text>
 <text class="k" x="34" y="84">Undergraduate thesis, graded A+</text>
 <text class="d" x="34" y="122">Predicts resistance to 7 antibiotics</text><text class="d" x="34" y="148">from 6,962 E. coli genomes.</text>

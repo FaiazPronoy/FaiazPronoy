@@ -29,7 +29,7 @@
 - 💻 I build full-stack web apps for everyday problems: digital payments, house rentals, student planning and animal rescue.
 - 🧬 My thesis used **machine learning on bacterial genomes** to predict antibiotic resistance straight from genome data, faster than lab tests. I led the five-member team, and we checked the model on data from an independent lab.
 - 🧑‍🏫 Over 4 semesters as a student tutor for Java and Mathematics, I was assigned to **400+ students** and gave **100+** of them one-to-one help in the dedicated Student Tutor lab, so I enjoy explaining hard ideas simply.
-- 🤝 I mentored **120+ new students** through their first three semesters and helped run events for **150+ teams** at the BRAC University Computer Club.
+- 🤝 I mentored **120+ new students** through their first three semesters and served as a **Senior Executive** at the BRAC University Computer Club.
 - 🌱 I'm currently exploring **advanced AI** and **network and system security**.
 - 💬 Ask me about **Django, React, Node.js, SQL or machine learning**.
 
@@ -124,7 +124,7 @@ Click a card for the code. Six of them are live, so you can try them without ins
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/roles-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg" />
-  <img src="assets/roles-light.svg" alt="Student Tutor, Programming Language I (CSE110), Mar 2026 to Sep 2026: 150+ students supported. Selected as 1 of 65 tutors from 200+ applicants. Taught Java directly to 50+ students. Student Tutor, Mathematics I (MAT110), Nov 2024 to May 2025: 250+ students supported. Appointed on CGPA and reappointed. Guided 50+ students directly. Student Mentor, First Year Advising Team, Jan 2024 to Sep 2025: 120+ new students mentored. 3 cohorts, each guided through its first three semesters. Senior Executive, Event Management, BRAC University Computer Club, Sep 2023 to Sep 2026: 150+ teams at one event. Promoted twice. Organised Bit Battles 2025 and the Ada Lovelace Mindstorm ideathon." width="100%" />
+  <img src="assets/roles-light.svg" alt="Student Tutor, Programming Language I (CSE110), Mar 2026 to Sep 2026: 150+ students supported. Selected as 1 of 65 tutors from 200+ applicants. Taught Java directly to 50+ students. Student Tutor, Mathematics I (MAT110), Nov 2024 to May 2025: 250+ students supported. Appointed on CGPA and reappointed. Guided 50+ students directly. Student Mentor, First Year Advising Team, Jan 2024 to Sep 2025: 120+ new students mentored. 3 cohorts, each guided through its first three semesters. Senior Executive, Event Management, BRAC University Computer Club, Sep 2023 to Sep 2026: 2 promotions. Planned and ran club events, then coordinated the team behind them." width="100%" />
 </picture>
 
 <details>
@@ -134,7 +134,7 @@ Click a card for the code. Six of them are live, so you can try them without ins
 - 💻 **Student Tutor, Programming Language I (CSE110)**: selected as 1 of 65 tutors from 200+ applicants through a written exam (3.80+ CGPA required). Supported 150+ first-year students and taught Java fundamentals directly to 50+ in Student Tutor lab consultations, with pseudocode, code tracing and guiding questions.
 - ➗ **Student Tutor, Mathematics I (MAT110)**: appointed on CGPA by the MNS Department and reappointed. Supported 250+ students, guided 50+ directly, graded assignments and prepared solutions.
 - 🧭 **Student Mentor, First Year Advising Team**: mentored 3 cohorts of 40+ new students (120+ in total) through their first three semesters, with sessions on policies, exam strategy, probation and scholarships.
-- 🎪 **Senior Executive, Event Management, BRAC University Computer Club**: promoted twice. Helped organise Bit Battles 2025 (150+ teams) and the Ada Lovelace Mindstorm ideathon (150+ participants).
+- 🎪 **Senior Executive, Event Management, BRAC University Computer Club**: planned and ran club events, then coordinated the team behind them. Promoted twice.
 - 🙋 **Student Volunteer**: 1 of 10 volunteers at CSE Research Day 2026, and served at two CSE Fresher Orientations.
 
 </details>

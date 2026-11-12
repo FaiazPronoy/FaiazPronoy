@@ -7,7 +7,7 @@
 .needle{animation:sw 6s cubic-bezier(.3,1.4,.5,1) infinite}@keyframes sw{0%{transform:rotate(-70deg)}30%,70%{transform:rotate(40deg)}100%{transform:rotate(-70deg)}}
 @media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
 </style>
-<rect width="600" height="240" rx="18" fill="#7A22C9"/>
+<defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="0.6"><stop offset="0" stop-color="#8E2DE2"/><stop offset="1" stop-color="#4B1391"/></linearGradient><radialGradient id="rg" cx="1.0" cy="0" r=".75"><stop offset="0" stop-color="#C4F04A" stop-opacity="0.28"/><stop offset="1" stop-color="#C4F04A" stop-opacity="0"/></radialGradient><clipPath id="rr"><rect width="600" height="240" rx="18"/></clipPath></defs><g clip-path="url(#rr)"><rect width="600" height="240" fill="url(#lg)"/><rect width="600" height="240" fill="url(#rg)"/></g>
 <text class="h" x="34" y="58">BRACU Course Compass</text>
 <text class="k" x="34" y="84">CSE470, Software Engineering</text>
 <text class="d" x="34" y="122">Course reviews, Q&amp;A, a semester</text><text class="d" x="34" y="148">planner and a study desk for BRACU.</text>

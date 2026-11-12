@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="Rentorium, a property rental and sales platform built with Django">
 <style>
 .h{font:800 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px;fill:#FFFFFF}
-.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFE0B8}
+.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFE3C2}
 .d{font:400 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF}
-.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFE0B8}
+.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFE3C2}
 .pin{animation:drop 2.8s cubic-bezier(.3,1.5,.5,1) infinite}@keyframes drop{0%{transform:translateY(-70px);opacity:0}25%,85%{transform:translateY(0);opacity:1}100%{transform:translateY(0);opacity:0}}.sh{animation:sh 2.8s ease-out infinite}@keyframes sh{0%{opacity:0;transform:scale(.3)}25%,85%{opacity:1;transform:scale(1)}100%{opacity:0}}
 @media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
 </style>
-<rect width="600" height="240" rx="18" fill="#C8341B"/>
+<defs><linearGradient id="sun" x1="0" y1="0" x2="1" y2="0.55"><stop offset="0" stop-color="#D23A1C"/><stop offset=".5" stop-color="#C82945"/><stop offset="1" stop-color="#B8165A"/></linearGradient></defs><rect width="600" height="240" rx="18" fill="url(#sun)"/>
 <text class="h" x="34" y="58">Rentorium</text>
 <text class="k" x="34" y="84">CSE471, System Analysis and Design</text>
 <text class="d" x="34" y="122">Rent or buy homes, offices and land,</text><text class="d" x="34" y="148">with map search and checked listings.</text>
 <text class="f" x="34" y="212">Django and Leaflet. 198 tests.</text>
-<g transform="translate(420 62)" fill="none" stroke="#FFFFFF55" stroke-width="2"><path d="M0 40H150M0 90H150M40 0V130M105 0V130M0 130L150 60"/></g><g transform="translate(525 150)"><ellipse class="sh" rx="14" ry="4" fill="#00000040"/><g class="pin"><path d="M0 0C-22 -26 -24 -38 -24 -46a24 24 0 0 1 48 0c0 8 -2 20 -24 46z" fill="#FFB627"/><circle cy="-46" r="9" fill="#C8341B"/></g></g>
+<g transform="translate(420 62)" fill="none" stroke="#FFFFFF55" stroke-width="2"><path d="M0 40H150M0 90H150M40 0V130M105 0V130M0 130L150 60"/></g><g transform="translate(525 150)"><ellipse class="sh" rx="14" ry="4" fill="#00000040"/><g class="pin"><path d="M0 0C-22 -26 -24 -38 -24 -46a24 24 0 0 1 48 0c0 8 -2 20 -24 46z" fill="#FFB627"/><circle cy="-46" r="9" fill="#B8165A"/></g></g>
 </svg>
