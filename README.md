@@ -52,7 +52,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg" />
-  <img src="assets/education-light.svg" alt="SSC in Science, GPA 5.00 out of 5.00, Willes Little Flower School and College, 2019. HSC in Science, GPA 5.00 out of 5.00, National Ideal College, 2021. B.Sc. in CSE, BRAC University, CGPA 3.95 out of 4.00, 136 credits, 2022 to 2026. M.Sc. in ICT, BUET, Institute of ICT, from October 2026." width="100%" />
+  <img src="assets/education-light.svg" alt="SSC in Science, GPA 5.00 out of 5.00, Willes Little Flower School and College, 2019. HSC in Science, GPA 5.00 out of 5.00, National Ideal College, 2021. B.Sc. in CSE, BRAC University, CGPA 3.95 out of 4.00, 136 credits, 2022 to 2026. M.Sc. in ICT, BUET, from October 2026, admitted through a competitive MCQ test, written test and viva." width="100%" />
 </picture>
 
 <img src="assets/rule.svg" alt="" width="100%" />
@@ -124,7 +124,7 @@ Click a card for the code. Six of them are live, so you can try them without ins
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/roles-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/roles-light.svg" />
-  <img src="assets/roles-light.svg" alt="Senior Executive, Event Management, BRAC University Computer Club, September 2023 to September 2026. Student Mentor, First Year Advising Team, January 2024 to September 2025. Student Tutor for Mathematics I, November 2024 to May 2025. Student Tutor for Programming Language I, March 2026 to September 2026. M.Sc. in ICT at BUET from October 2026." width="100%" />
+  <img src="assets/roles-light.svg" alt="Student Tutor, Programming Language I (CSE110), Mar 2026 to Sep 2026: 150+ students supported. Selected as 1 of 65 tutors from 200+ applicants. Taught Java directly to 50+ students. Student Tutor, Mathematics I (MAT110), Nov 2024 to May 2025: 250+ students supported. Appointed on CGPA and reappointed. Guided 50+ students directly. Student Mentor, First Year Advising Team, Jan 2024 to Sep 2025: 120+ new students mentored. 3 cohorts, each guided through its first three semesters. Senior Executive, Event Management, BRAC University Computer Club, Sep 2023 to Sep 2026: 150+ teams at one event. Promoted twice. Organised Bit Battles 2025 and the Ada Lovelace Mindstorm ideathon." width="100%" />
 </picture>
 
 <details>
