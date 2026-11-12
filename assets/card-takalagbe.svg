@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="TakaLagbe, a mobile wallet built with PHP and MySQL">
+<style>
+.h{font:800 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px;fill:#FFFFFF}
+.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFD98A}
+.d{font:400 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF}
+.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFD98A}
+.coin{animation:go 3.2s cubic-bezier(.6,0,.2,1) infinite alternate}@keyframes go{0%,12%{transform:translateX(0)}88%,100%{transform:translateX(130px)}}
+@media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
+</style>
+<rect width="600" height="240" rx="18" fill="#0B6B4F"/>
+<text class="h" x="34" y="58">TakaLagbe!</text>
+<text class="k" x="34" y="84">CSE370, Database Systems</text>
+<text class="d" x="34" y="122">Mobile wallet: send money, pay bills,</text><text class="d" x="34" y="148">recharge, save and split bills.</text>
+<text class="f" x="34" y="212">PHP and MySQL. 111 end to end checks.</text>
+<g transform="translate(430 120)"><path d="M0 0H130" stroke="#FFFFFF66" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/><circle r="9" fill="#FFFFFF"/><circle cx="130" r="9" fill="#FFFFFF"/><g class="coin"><circle r="24" fill="#FFB81C"/><circle r="18" fill="none" stroke="#7A5200" stroke-width="1.5"/><text y="9" text-anchor="middle" style="font:800 26px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#5C3D00">৳</text></g></g>
+</svg>

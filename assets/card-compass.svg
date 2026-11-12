@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="BRACU Course Compass, a course review and planning platform">
+<style>
+.h{font:800 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px;fill:#FFFFFF}
+.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#DDF59A}
+.d{font:400 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF}
+.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#DDF59A}
+.needle{animation:sw 6s cubic-bezier(.3,1.4,.5,1) infinite}@keyframes sw{0%{transform:rotate(-70deg)}30%,70%{transform:rotate(40deg)}100%{transform:rotate(-70deg)}}
+@media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
+</style>
+<rect width="600" height="240" rx="18" fill="#7A22C9"/>
+<text class="h" x="34" y="58">BRACU Course Compass</text>
+<text class="k" x="34" y="84">CSE470, Software Engineering</text>
+<text class="d" x="34" y="122">Course reviews, Q&amp;A, a semester</text><text class="d" x="34" y="148">planner and a study desk for BRACU.</text>
+<text class="f" x="34" y="212">React, Express, MongoDB. 168 tests.</text>
+<g transform="translate(500 120)"><circle r="72" fill="#5E17A0"/><line x1="0" y1="-62" x2="0" y2="-46" transform="rotate(0)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(30)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(60)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-46" transform="rotate(90)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(120)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(150)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-46" transform="rotate(180)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(210)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(240)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-46" transform="rotate(270)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(300)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><line x1="0" y1="-62" x2="0" y2="-52" transform="rotate(330)" stroke="#FFFFFF88" stroke-width="2" stroke-linecap="round"/><g class="needle"><path d="M0 -44L10 0L0 44L-10 0Z" fill="#1D0F33"/><path d="M0 -44L10 0L-10 0Z" fill="#C4F04A"/></g><circle r="6" fill="#FFFFFF"/></g>
+</svg>

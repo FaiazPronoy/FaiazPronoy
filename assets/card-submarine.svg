@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="Submarine Saga, a 2D game built with Python and OpenGL">
+<style>
+.h{font:800 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px;fill:#FFFFFF}
+.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9AD7F5}
+.d{font:400 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF}
+.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9AD7F5}
+.torp{animation:fire 2.6s linear infinite}@keyframes fire{0%{transform:translateX(0);opacity:0}10%{opacity:1}80%{opacity:1}100%{transform:translateX(-110px);opacity:0}}.bub{animation:up 2.6s ease-in infinite}@keyframes up{0%{transform:translateY(0);opacity:.9}100%{transform:translateY(-46px);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
+</style>
+<rect width="600" height="240" rx="18" fill="#0B3A5B"/>
+<text class="h" x="34" y="58">Submarine Saga</text>
+<text class="k" x="34" y="84">CSE423, Computer Graphics</text>
+<text class="d" x="34" y="122">2D torpedo duel where every shape is</text><text class="d" x="34" y="148">drawn point by point, by hand.</text>
+<text class="f" x="34" y="212">Python and OpenGL.</text>
+<g transform="translate(410 70)"><path d="M0 0q20 -10 40 0t40 0t40 0t40 0" fill="none" stroke="#9AD7F566" stroke-width="2.5" stroke-linecap="round"/><g transform="translate(0 70)"><rect x="118" y="-12" width="52" height="24" rx="12" fill="#F2B84B"/><rect x="138" y="-24" width="14" height="14" rx="3" fill="#F2B84B"/><circle cx="156" cy="0" r="4" fill="#0B3A5B"/><g class="torp"><rect x="96" y="-3" width="20" height="6" rx="3" fill="#FFFFFF"/></g><circle class="bub" cx="120" cy="-6" r="3" fill="#9AD7F5"/></g></g>
+</svg>

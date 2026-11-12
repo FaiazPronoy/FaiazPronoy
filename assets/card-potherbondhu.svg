@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="Pother Bondhu, an animal rescue network for Dhaka">
+<style>
+.h{font:800 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:-.6px;fill:#FFFFFF}
+.k{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FBE9C8}
+.d{font:400 17px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FFFFFF}
+.f{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#FBE9C8}
+.paw{opacity:0;animation:step 4.5s ease-out infinite}@keyframes step{0%{opacity:0;transform:scale(.6)}8%,60%{opacity:1;transform:scale(1)}80%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation-play-state:paused!important}}
+</style>
+<rect width="600" height="240" rx="18" fill="#B4441F"/>
+<text class="h" x="34" y="58">Pother Bondhu</text>
+<text class="k" x="34" y="84">Personal project</text>
+<text class="d" x="34" y="122">Rescue network for street animals in</text><text class="d" x="34" y="148">Dhaka: photo reports and volunteers.</text>
+<text class="f" x="34" y="212">React, Express, MongoDB. 78 tests.</text>
+<g transform="translate(418 160) rotate(56)"><g class="paw" style="animation-delay:0.00s" fill="#FFF8F0"><ellipse cy="5" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g></g><g transform="translate(454 168) rotate(56)"><g class="paw" style="animation-delay:0.45s" fill="#FFF8F0"><ellipse cy="5" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g></g><g transform="translate(490 112) rotate(56)"><g class="paw" style="animation-delay:0.90s" fill="#FFF8F0"><ellipse cy="5" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g></g><g transform="translate(526 120) rotate(56)"><g class="paw" style="animation-delay:1.35s" fill="#FFF8F0"><ellipse cy="5" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g></g><g transform="translate(562 64) rotate(56)"><g class="paw" style="animation-delay:1.80s" fill="#FFF8F0"><ellipse cy="5" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g></g>
+</svg>
